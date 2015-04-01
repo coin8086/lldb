@@ -1,0 +1,1 @@
+This is a simple local Lua debugger in C, with a console interface. It demonstrates the basic work of a debugger for Lua, yet also has some practical use. It can also be used as a good start point for a full-featured debugger. See https://sites.google.com/site/louirobert/Debuggers/Console-Based-Local-Debugger for usage.
